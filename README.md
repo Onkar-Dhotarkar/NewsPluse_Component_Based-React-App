@@ -32,3 +32,4 @@ NewsPulse aims to deliver an engaging and user-friendly news browsing experience
 
 ## Support and Love:
 We're thrilled to bring NewsPulse to life! If you find this project useful or have any suggestions for improvement, we'd greatly appreciate your support and feedback. Contributions, bug reports, feature requests, or simply spreading the word about NewsPulse are all immensely valuable contributions to the project's growth.
+`For support, give a ⭐️.`
