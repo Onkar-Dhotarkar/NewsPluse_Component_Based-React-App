@@ -1,0 +1,56 @@
+.font-signed {
+  font-family: 'Indie Flower';
+  font-weight: bolder;}
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .btn-read-more .hover-text {
+    display: none;
+  }
+  
+  .btn-read-more:hover .initial-text {
+    display: none;
+  }
+  
+  .btn-read-more:hover .hover-text {
+    display: inline;
+  }
+  .btn-read-more .initial-text {
+    font-size: 1.5em; /* Adjust the size as needed */
+  }
+  .btn-read-more {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn-read-more .initial-text {
+    font-size: 1.5em; /* Adjust the size as needed */
+    line-height: 1; /* Set line-height to 1 for tighter spacing */
+    vertical-align: middle; /* Align vertically in the middle */
+  }
+      
+/* Custom CSS */
+.navbar-nav .nav-link {
+  text-decoration: none; /* Remove default underline */
+  position: relative; /* Set position relative for pseudo-element */
+}
+
+.navbar-nav .nav-link::after {
+  content: '';
+  display: block;
+  position: absolute;
+  bottom: -1px; /* Adjust the margin by changing the value */
+  left: 0;
+  width: 100%;
+  border-bottom: 1px solid transparent; /* Transparent underline */
+  transition: border-color 0.3s ease; /* Smooth transition effect */
+}
+
+.navbar-nav .nav-link:hover::after {
+  border-color: #000; /* Change to the desired color on hover */
+}

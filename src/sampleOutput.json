@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh, Hanako Montgomery",
+            "title": "Toyota-owned automaker halts Japan production after admitting it tampered with safety tests for 30 years - CNN",
+            "description": "Daihatsu, the Japanese automaker owned by Toyota, has halted production after admitting it falsified data in safety tests for its vehicles for 30 years.",
+            "url": "https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231226223730-daihatsu-factory-122623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T08:57:00Z",
+            "content": "Daihatsu, the Japanese automaker owned by Toyota, has halted domestic production after admitting it forged the results of safety tests for its vehicles for more than 30 years.\r\nThe brand, best known … [+2640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jake Ciely",
+            "title": "Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more - The Athletic",
+            "description": "Jake Ciely has your fantasy football Week 17 ranks, sleepers, game previews and more to win your championships",
+            "url": "https://theathletic.com/5163035/2023/12/27/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/11/01195432/USATSI_21444596-scaled.jpg",
+            "publishedAt": "2023-12-27T05:26:59Z",
+            "content": "The fantasy football playoffs are in full swing, and no Christmas present would be better than another win. Lets get into the Week 17 fantasy football rankings, sleepers, game previews and fun with t… [+7470 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Baghdad condemns US strike on Iraqi military positions - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/baghdad-condemns-us-strike-iraqi-military-positions-2023-12-26/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T05:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Katherine Donlevy",
+            "title": "YouTuber helps find remains of missing Missouri Army vet 10 years after he disappeared - New York Post ",
+            "description": "Scuba divers jumped into the water to confirm the algae-covered car was the one Donnie Erwin was last seen driving almost exactly a decade earlier.",
+            "url": "https://nypost.com/2023/12/27/news/youtuber-james-hinkle-helps-lead-cops-to-remains-of-missouri-man-donnie-erwin-missing-since-2013/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/12/Untitled-1-2023-12-27T000112.192-1.jpg?quality=75&strip=all&w=960",
+            "publishedAt": "2023-12-27T05:18:00Z",
+            "content": "The remains of a Missouri veteran who had been missing for a decade were found Sunday thanks to the help of a dedicated YouTuber.\r\nInvestigators believe the remains — as well as an artificial hip — b… [+2752 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "At least nine killed after severe storms batter eastern Australia - Al Jazeera English",
+            "description": "The dead include a nine-year-old child who was swept into a surging storm drain on the outskirts of Brisbane.",
+            "url": "https://www.aljazeera.com/news/2023/12/27/at-least-eight-killed-after-severe-storms-batter-eastern-australia",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/AP23361142719372-1703650926.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-12-27T04:30:00Z",
+            "content": "At least nine people have been killed after severe storms battered Australias eastern states over the Christmas holidays, bringing down trees and power lines and leaving tens of thousands of househol… [+3168 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Jailed Russian opposition leader Navalny ‘relieved’ after ‘exhausting’ 20-day prison transfer - CNN",
+            "description": "Russian opposition leader Alexey Navalny has spoken out for the first time since his sudden disappearance several weeks ago, after his team said they eventually located him at a penal colony in Siberia Monday.",
+            "url": "https://www.cnn.com/2023/12/27/europe/alexey-navalny-russia-prison-message-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/191226172759-navalny-pano.jpg?q=x_3,y_133,h_1440,w_2559,c_crop/w_800",
+            "publishedAt": "2023-12-27T04:24:00Z",
+            "content": "Russian opposition leader Alexey Navalny has spoken out for the first time since his sudden disappearance several weeks ago, after his team said they eventually located him at a penal colony in Siber… [+3075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WYFF4 Greenville"
+            },
+            "author": "Journie Crenshaw",
+            "title": "Flu forces visitation changes at Prisma Health, officials say - WYFF4 Greenville",
+            "description": "Prisma Health has announced visitation changes amid increased cases of influenza and other respiratory illnesses across the region.",
+            "url": "https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/388271eb-443e-481f-abe5-928c06a2ab87/388271eb-443e-481f-abe5-928c06a2ab87_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-12-27T04:12:00Z",
+            "content": "GREENVILLE, S.C. —Prisma Health has announced visitation changes amid increased cases of influenza and other respiratory illnesses across the region.\r\nOfficials with Prisma Heath said it will begin r… [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Mary Gilbert",
+            "title": "Winter storm brings blizzard conditions to central US - CNN",
+            "description": "A blizzard-fueling winter storm swept across the Plains and upper Midwest with heavy snow, freezing rain and strong winds, creating dangerous travel during the busy holiday week.",
+            "url": "https://www.cnn.com/2023/12/26/weather/blizzard-nebraska-south-dakota-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231226124401-03-winter-weather-1225.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T03:52:00Z",
+            "content": "A blizzard-fueling winter storm swept across the Plains and upper Midwest with heavy snow, freezing rain and strong winds, creating dangerous travel during the busy holiday week.\r\nThe storms strong w… [+5748 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "HYUNG-JIN KIM",
+            "title": "South Korean actor Lee Sun-kyun of Oscar-winning film 'Parasite' is found dead - The Associated Press",
+            "description": "Lee Sun-kyun, a popular South Korean actor best known for his role in the Oscar-winning movie “Parasite,” has been found dead in a car in Seoul, authorities say, after weeks of an intense police investigation into his alleged drug use. Police and emergency of…",
+            "url": "https://apnews.com/article/actor-lee-sun-kyun-parasite-unconscious-south-korea-2faacd7290f5b84b6a996705d8351cdf",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bd0eb6b/2147483647/strip/true/crop/2624x1476+0+137/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Ff0%2F58c4ac0b8bbcc68231ff5f5c170c%2F7367a4d36f8a4d8ba319f2732aa323ea",
+            "publishedAt": "2023-12-27T03:02:33Z",
+            "content": "SEOUL, South Korea (AP) Lee Sun-kyun, a popular South Korean actor best known for his role in the Oscar-winning movie Parasite, was found dead in a car in Seoul on Wednesday, authorities said, after … [+2450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Ambar Warrick",
+            "title": "Asian stocks rise tracking Wall St rally; China losses persist By Investing.com - Investing.com",
+            "description": "Asian stocks rise tracking Wall St rally; China losses persist",
+            "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-tracking-wall-st-rally-china-losses-persist-3263781",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6200T_L.jpg",
+            "publishedAt": "2023-12-27T02:55:00Z",
+            "content": "Investing.com-- Most Asian stocks rose on Wednesday, tracking a rally on Wall Street as investors cheered the prospect of early interest rate cuts by the Federal Reserve, while Chinese shares lagged … [+3114 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Doric Sam",
+            "title": "Pistons Trolled by Fans for NBA Record 27-Game Losing Streak after Loss to Nets - Bleacher Report",
+            "description": "The Detroit Pistons put forth a strong effort in Tuesday's game against the Brooklyn Nets, but it simply wasn't enough to end their epic losing streak. The…",
+            "url": "https://bleacherreport.com/articles/10102622-pistons-trolled-by-fans-for-nba-record-27-game-losing-streak-after-loss-to-nets",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1703642875/vmafvkdzczolgv5uxk6v.jpg",
+            "publishedAt": "2023-12-27T02:51:57Z",
+            "content": "Jesse D. Garrabrant/NBAE via Getty Images\r\nThe Detroit Pistons put forth a strong effort in Tuesday's game against the Brooklyn Nets, but it simply wasn't enough to end their epic losing streak.\r\nThe… [+4441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sumanti Sen",
+            "title": "Hawaii influencer Theresa Cachuela shot dead by husband in front of her child - Hindustan Times",
+            "description": "The suspect, Jason Calchuela, later killed himself, and his body was found behind a residence",
+            "url": "https://www.hindustantimes.com/world-news/us-news/hawaii-influencer-shot-dead-by-husband-in-front-of-her-child-weeks-after-she-filed-for-restraining-order-101703644206791.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/27/1600x900/Untitled_1703644448546_1703644448747.jpg",
+            "publishedAt": "2023-12-27T02:38:24Z",
+            "content": "A Hawaii influencer was shot dead by her husband, who later died by suicide, it has been revealed. Theresa Cachuela, 33, was murdered in front of her 11-year-old daughter by her estranged husband Jas… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Appeals court reverses conviction against former Nebraska Rep. Jeff Fortenberry - POLITICO - POLITICO",
+            "description": "The Ninth Circuit ruled Tuesday that prosecutors should not have tried the former Nebraska congressman in Los Angeles.",
+            "url": "https://www.politico.com/news/2023/12/26/appeals-court-reverses-conviction-against-former-rep-jeff-fortenberry-00133213",
+            "urlToImage": "https://static.politico.com/6c/79/d921831642e883894c1fe5ffaa88/nebraska-congressman-campaign-contributions-44999.jpg",
+            "publishedAt": "2023-12-27T02:19:43Z",
+            "content": "Fortenberry and his wife praised Tuesdays decision. In a \r\nstatement to The Associated Press, Fortenberry said we are gratified by the Ninth Circuits decision, and Celeste and I would like to thank e… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Kanye West, after comparing himself to Jesus and Hitler, apologizes in Hebrew for antisemitic remarks - Fox News",
+            "description": "The rapper formerly known as Kanye West apologized to the Jewish community Tuesday for his past antisemitic comments – just a couple of weeks after comparing himself to Hitler.",
+            "url": "https://www.foxnews.com/media/kanye-west-comparing-himself-jesus-hitler-apologizes-hebrew-antisemitic-remarks",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Kanye-West.jpg",
+            "publishedAt": "2023-12-27T01:42:00Z",
+            "content": "Ye the rapper formerly known as Kanye West apologized to the Jewish community on Tuesday for his past antisemitic remarks. \r\nThe apology was posted on Instagram in Hebrew and comes ahead of Yes new a… [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Cox",
+            "title": "Taylor Swift's parents spotted mingling with Travis Kelce's dad Ed in private suite before Chiefs game - Page Six",
+            "description": "Swift brought parents Scott and Andrea to the Kansas City Chiefs’ Christmas Day game on Monday. While Kelce’s dad, Ed, was also there, his mom, Donna, could not make it.",
+            "url": "https://pagesix.com/2023/12/26/parents/taylor-swifts-parents-spotted-mingling-with-travis-kelces-dad-ed-before-chiefs-game/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/12/74142177.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-12-27T01:26:42Z",
+            "content": "Blending the families. \r\nTaylor Swift’s parents, Scott and Andrea Swift, were photographed chatting with Travis Kelce’s dad, Ed Kelce, at the Kansas City Chiefs’ game against the Las Vegas Raiders on… [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Green Nation"
+            },
+            "author": "Ben Natan",
+            "title": "Eagles rookies stood out in win over the Giants - Bleeding Green Nation",
+            "description": "Report card time.",
+            "url": "https://www.bleedinggreennation.com/2023/12/26/24015372/eagles-rookies-giants-game-nfl-week-16-results-analysis-kelee-ringo-jalen-carter-nolan-smith-sydney",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r2fAlRjcvzbMvaY8Z0VxULcghTg=/0x0:4406x2307/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25187594/usa_today_22173722.jpg",
+            "publishedAt": "2023-12-27T01:24:46Z",
+            "content": "The Eagles finally snapped their losing streak, beating the Giants on Christmas in what was ultimately a close call. Despite some frustrating moments on both sides of the ball, there was some really … [+3359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Gabrielle Chung",
+            "title": "Nick Cannon's Christmas Gift From Bre Tiesi Is a Nod to His 12 Kids - E! NEWS",
+            "description": "Selling Sunset's Bre Tiesi created a custom Monopoly game board of Nick Cannon and his 12 kids in honor of Christmas, calling it the \"favorite gift I've given.\"",
+            "url": "https://www.eonline.com/news/1392053/nick-cannons-christmas-gift-from-bre-tiesi-is-a-nod-to-all-12-of-his-kids",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20231126/cr_1200x1200-231226162936-GettyImages-1674716503.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-12-27T01:14:00Z",
+            "content": "As a dad to a dozen kids, Christmas is no game for Nick Cannon.\r\nBut Bre Tiesiwith whom he shares 17-month-old son Legendary Lovehad a little fun with the Masked Singer host this holiday season by gi… [+839 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brian Dakss",
+            "title": "Biden administration allows ban on some Apple Watch imports to take hold - CBS News",
+            "description": "The ban was ordered by the U.S. International Trade Commission due to a patent dispute over the devices' blood oxygen monitor.",
+            "url": "https://www.cbsnews.com/news/apple-watch-series-9-ban-goes-into-effect-biden-administration/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/08/6e5551ae-f234-466f-8d9d-a7d55ba315b6/thumbnail/1200x630/6f5961e38ef869533d4b1b50500f1ad1/apple-watch-deals-bf.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+            "publishedAt": "2023-12-27T00:39:00Z",
+            "content": "The Biden administration let stand on Tuesday the U.S. International Trade Commission's ban of imports of Apple Watches stemming from a patent dispute over the devices' blood oxygen monitor. The deci… [+1592 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lorraine Taylor, Stepheny Price",
+            "title": "Missing pregnant teen Savanah Soto, boyfriend found dead in Texas - Fox News",
+            "description": "18-year-old Savanah Soto and her boyfriend Matthew Guerra were found dead Tuesday in a car in San Antonio, Texas. The teen was nine months pregnant and had been missing since Friday.",
+            "url": "https://www.foxnews.com/us/missing-pregnant-teen-savanah-soto-boyfriend-found-dead-texas",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Screenshot-2023-12-27-at-1.19.09-AM.jpg",
+            "publishedAt": "2023-12-27T00:21:26Z",
+            "content": "A pregnant teen who had been missing since Friday was found dead Tuesday in San Antonio, Texas, along with her boyfriend.\r\nFamily confirmed to Fox San Antonio that 18-year-old Savanah Soto and her bo… [+1677 chars]"
+        }
+    ]
+}
