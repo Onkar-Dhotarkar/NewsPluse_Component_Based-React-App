@@ -4,7 +4,7 @@ NewsPulse is a dynamic React-based web application designed to provide real-time
 ## Screenshots
 ![image](https://github.com/sahil-gpm/newsfeed/assets/142321110/e93b11fe-d20d-44c3-bbf6-2e53d7c9bcd3)
 
-https://github.com/sahil-gpm/newsfeed/assets/142321110/ec9ca39b-47df-4082-b07a-53c0e114484e
+
 
 
 
