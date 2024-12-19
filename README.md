@@ -16,11 +16,11 @@ NewsPulse is a dynamic React-based web application designed to provide real-time
 - Spinner Component: Displays a loading animation while fetching news data to enhance user experience.<br>
 
 ## Key Features:
-- Category-wise News Display: Offers distinct categories including Business, Entertainment, Health, Science, Sports, and Technology.<br>
-- Top Headlines: Showcases top news articles within each category, providing a concise summary and links for more information.<br>
-- Pagination Support: Enables users to navigate through multiple pages of news articles within a selected category.<br>
-- Responsive Design: Utilizes Bootstrap and custom CSS for a visually appealing and responsive user interface.<br>
-- Real-time Updates: Fetches real-time data from a news API to ensure the latest news articles are displayed.<br>
+- ### Category-wise News Display: <br>
+- ### Top Headlines: <br>
+- ### Pagination Support: <br>
+- ### Responsive Design: <br>
+- ### Real-time Updates: <br>
 
 ## Technologies Used:
 - React: Leveraged to create a modular and interactive user interface.<br>
